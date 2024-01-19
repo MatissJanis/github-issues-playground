@@ -8,7 +8,6 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report! Please ensure you provide as much information as possible to better assist in confirming and identifying a fix for the bug.
-
       ## Is this related to GoCardless, Simplefin or another bank-sync provider?
       Hello World
   - type: checkboxes
